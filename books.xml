@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore fid="988">
+	<book id="1">
+	111
+		<name>老炮儿</name>
+		<author>ckg</author>
+		<year>2014</year>
+		<price>89</price>
+	</book>
+	<book id="2">
+	222
+		<name>星球大战</name>
+		<year>2016</year>
+		<price>77</price>
+		<language>English</language>
+	</book>
+</bookstore>

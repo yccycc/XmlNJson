@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="001">
+	1<name>星球大战</name>
+	3<year>2016</year>
+	5<price>77</price>
+	7<language>English</language>9
+</book>
